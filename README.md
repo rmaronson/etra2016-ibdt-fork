@@ -1,3 +1,7 @@
+Original code available at:
+http://www.ti.uni-tuebingen.de/Eye-Movements-Identification.1845.0.html?&L=1
+(Matlab implementation)
+
 ################################################################################
 # LICENSE
 ################################################################################
